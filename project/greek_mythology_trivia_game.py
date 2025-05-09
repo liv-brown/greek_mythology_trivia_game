@@ -1,4 +1,4 @@
-#This is a Greek Mythology themed trivia game that will quiz players on various figures and events in Greek mythology. 
+#This is a Greek Mythology themed trivia game that will quiz players on various figures, creatures, and events in Greek mythology. 
 import random 
 #Define a list of Greek mythology themed trivia questions and provide their answers.
 def greek_mythology_trivia():
